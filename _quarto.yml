@@ -1,0 +1,19 @@
+project:
+  output-dir: _output
+  type: website
+
+website:
+  title: "Name, Last Name"
+  description: "Personal academic website of Name, Last Name"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Contact"
+        href: contact.qmd

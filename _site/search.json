@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my personal academic page where I share insights into my research interests, recent publications, and ongoing projects."
+  },
+  {
+    "objectID": "index.html#john-doe-ph.d.",
+    "href": "index.html#john-doe-ph.d.",
+    "title": "Home",
+    "section": "John Doe, Ph.D.",
+    "text": "John Doe, Ph.D.\n\nProfessor of Political Science at XYZ University"
+  }
+]
