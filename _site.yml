@@ -1,0 +1,19 @@
+name: "my-website"                  # Name of the website
+output_dir: "docs"                  # Directory where the site will be built
+navbar:
+  title: "My Website"               # Title to display in the navbar
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+  right:
+    - icon: "fa fa-github"
+      href: https://github.com/yourusername
+
+output:
+  html_document:
+    theme: cosmo                     # Bootstrap theme
+    highlight: textmate
+    toc: true                        # Table of contents
+    toc_depth: 2
