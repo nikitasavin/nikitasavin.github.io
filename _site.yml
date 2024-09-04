@@ -4,7 +4,7 @@ navbar:
   title: "My Website"               # Title to display in the navbar
   left:
     - text: "Home"
-      href: index.html
+      href: index.qmd
     - text: "About"
       href: about.html
   right:
